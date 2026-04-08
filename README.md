@@ -1,6 +1,6 @@
 # 👩‍💻 Ada Araujo
 
-🎯 Focada em Cibersegurança | Python | Dados  
+👾 Focada em Cibersegurança | Python | Dados  👾
 
 ---
 
@@ -15,14 +15,14 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Estudante de Sistemas da Informação com foco em cibersegurança e prática em Python.  
 Venho desenvolvendo projetos próprios e estudando por meio de plataformas como TryHackMe e CTFs.
 
 ---
 
-## 🛠️ Conhecimentos
+## Conhecimentos
 
 - Python e automação  
 - Redes e protocolos  
@@ -35,17 +35,8 @@ Venho desenvolvendo projetos próprios e estudando por meio de plataformas como 
 
 ## 📌 Projetos
 
-- 🔐 Port Scanner em Python  
+- Port Scanner em Python  
 (outros projetos em desenvolvimento)
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AdaAraujo&show_icons=true&theme=default" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdaAraujo&layout=compact" />
-</p>
 
 ---
 
