@@ -1,5 +1,8 @@
-# 👾 Ada Araujo
+# 👩‍💻 Ada Araujo
 
+🎯 Focada em Cibersegurança | Python | Dados  
+
+---
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -10,73 +13,43 @@
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
+---
 
-✨ Estudante de Sistemas da Informação focada em Cibersegurança, Python e Dados  ✨
+## 🚀 Sobre mim
+
+Estudante de Sistemas da Informação com foco em cibersegurança e prática em Python.  
+Venho desenvolvendo projetos próprios e estudando por meio de plataformas como TryHackMe e CTFs.
 
 ---
 
-## ✍️ Sobre mim
+## 🛠️ Conhecimentos
 
-Sou estudante de Sistemas da Informação com interesse em Cibersegurança e análise de dados.  
-Tenho experiência prática com Python, redes e laboratórios como TryHackMe e CTFs, além de atuação com ensino de tecnologia para crianças, o que fortaleceu minha comunicação e didática.
-
----
-
-## 🧠 Áreas de interesse
-
--  Cibersegurança (Pentest e análise)
--  Dados e Python
--  Redes de computadores
+- Python e automação  
+- Redes e protocolos  
+- SQL e bancos de dados  
+- Linux  
+- APIs (Flask e FastAPI)  
+- Fundamentos de segurança ofensiva  
 
 ---
 
-## 👾 Tecnologias
+## 📌 Projetos
 
--  Python, Java, JavaScript, PHP  
--  HTML, APIs REST (Flask, FastAPI)  
--  SQL (MySQL, PostgreSQL, Oracle)  
--  Pandas, Jupyter, Machine Learning  
--  TryHackMe, CTFs, PortSwigger  
--  Linux, Windows  
--  Git e GitHub  
+- 🔐 Port Scanner em Python  
+(outros projetos em desenvolvimento)
 
 ---
 
-## 💼 Experiência
+## 📊 GitHub Stats
 
-**Instrutora de Robótica Educacional**  
-📍 Secretaria de Educação de Olinda  
-
-- Ensino de lógica de programação para crianças  
-- Apoio em projetos de tecnologia e robótica  
-- Desenvolvimento de pensamento computacional  
-
----
-
-## 📌 Projetos em destaque
-
-- 🔐 Port Scanner em Python (cibersegurança)  
-- 
-
----
-
-## 📚 Certificações
-
-- Introdução à Cibersegurança – Cisco  
-- Penetration Testing – Cesar School  
-- Análise de Dados com Python – Programaria  
-
----
-
-## 👾 Diferenciais
-
-- 🧠 Pensamento analítico e resolução de problemas  
-- 🗣️ Comunicação clara e didática  
-- ⚡ Aprendizado rápido e proatividade  
+<p>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=default" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact" />
+</p>
 
 ---
 
 ## 📫 Contato
 
 - 📧 adaaraujo23@outlook.com  
-- 🔗 LinkedIn: https://linkedin.com/in/ada-araujo2
+- 🔗 linkedin.com/in/ada-araujo2
