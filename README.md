@@ -43,8 +43,8 @@ Venho desenvolvendo projetos próprios e estudando por meio de plataformas como 
 ## 📊 GitHub Stats
 
 <p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=default" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AdaAraujo&show_icons=true&theme=default" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdaAraujo&layout=compact" />
 </p>
 
 ---
