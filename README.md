@@ -16,7 +16,7 @@
 ## Sobre mim
 
 Estudante de Sistemas da Informação com foco em cibersegurança e prática em Python.  
-Venho desenvolvendo projetos próprios e estudando por meio de plataformas como TryHackMe e CTFs.
+Venho desenvolvendo projetos próprios e estudando por meio de plataformas como TryHackMe.
 
 ---
 
