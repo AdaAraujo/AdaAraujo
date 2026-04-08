@@ -1,7 +1,5 @@
 # 👩‍💻 Ada Araujo
 
-👾 Cibersegurança | Python | Dados  👾
-
 ---
 
 <p align="left">
