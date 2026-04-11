@@ -14,25 +14,20 @@ IT Student focused on Cybersecurity and Software Development
 
 ---
 
-## About me
+## 👾 About me 👾
 
-I enjoy solving problems, analyzing systems, and understanding how attacks happen — and how to detect and prevent them.
+I enjoy solving problems, analyzing systems, and understanding how attacks happen and how to detect and prevent them.
 I'm currently looking for an **internship opportunity in IT / Cybersecurity** where I can grow and contribute.
 
 ---
 
-## Tech Stack
-
- **Languages:** Python, SQL  
- **Frontend:** HTML, CSS, JavaScript  
- **Backend:** Flask, REST APIs  
- **Data:** Pandas  
- **Database:** SQLite
- **Security:** Log analysis, threat detection, CTFs, TryHackMe
+## 🧠 Tech Stack 🧠 
+Python, SQL, HTML, CSS, JavaScript, Flask, Rest APIs,
+SQLite, Log analysis, threat detection, CTFs, TryHackMe
 
 ---
 
-## 📌 Projects
+## Projects
 
 -  Mini SIEM Dashboard  
   Security monitoring system with log ingestion, threat detection, and real-time dashboard  
@@ -47,5 +42,5 @@ I'm currently looking for an **internship opportunity in IT / Cybersecurity** wh
 
 ## 📫 Contact
 
-- 📧 adaaraujo23@outlook.com  
-- 🔗 linkedin.com/in/ada-araujo2
+ e-mail: adaaraujo23@outlook.com  
+linkedin: linkedin.com/in/ada-araujo2
