@@ -1,5 +1,6 @@
 # 👩‍💻 Ada Araujo
 
+IT Student focused on Cybersecurity and Software Development
 ---
 
 <p align="left">
@@ -13,32 +14,38 @@
 
 ---
 
-## Sobre mim
+## About me
 
-Estudante de Sistemas da Informação com foco em cibersegurança e prática em Python.  
-Venho desenvolvendo projetos próprios e estudando por meio de plataformas como TryHackMe.
-
----
-
-## Conhecimentos
-
-- Python e automação  
-- Redes e protocolos  
-- SQL e bancos de dados  
-- Linux  
-- APIs (Flask e FastAPI)  
-- Fundamentos de segurança ofensiva  
+I enjoy solving problems, analyzing systems, and understanding how attacks happen — and how to detect and prevent them.
+I'm currently looking for an **internship opportunity in IT / Cybersecurity** where I can grow and contribute.
 
 ---
 
-## 📌 Projetos
+## Tech Stack
 
-- Port Scanner em Python  
-(outros projetos em desenvolvimento)
+ **Languages:** Python, SQL  
+ **Frontend:** HTML, CSS, JavaScript  
+ **Backend:** Flask, REST APIs  
+ **Data:** Pandas  
+ **Database:** SQLite
+ **Security:** Log analysis, threat detection, CTFs, TryHackMe
 
 ---
 
-## 📫 Contato
+## 📌 Projects
+
+-  Mini SIEM Dashboard  
+  Security monitoring system with log ingestion, threat detection, and real-time dashboard  
+
+-  Log Analyzer (Python)  
+  Tool for detecting suspicious activities and anomalies in system logs  
+
+-  Port Scanner  
+  Network scanning tool to identify active services and potential attack surfaces  
+
+---
+
+## 📫 Contact
 
 - 📧 adaaraujo23@outlook.com  
 - 🔗 linkedin.com/in/ada-araujo2
