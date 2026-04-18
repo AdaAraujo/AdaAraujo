@@ -1,6 +1,8 @@
 # 👩‍💻 Ada Araujo
 
-IT Student focused on Cybersecurity and Software Development
+🎓 IT Student focused on Cybersecurity and Software Development  
+🔐 Interested in both Offensive and Defensive Security  
+💻 Building practical projects involving log analysis, threat detection, and monitoring 
 ---
 
 <p align="left">
@@ -22,8 +24,13 @@ I'm currently looking for an **internship opportunity in IT / Cybersecurity** wh
 ---
 
 ## 🧠 Tech Stack 🧠 
-Python, SQL, HTML, CSS, JavaScript, Flask, Rest APIs,
-SQLite, Log analysis, threat detection, CTFs, TryHackMe
+- **Languages:** Python, SQL  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Flask, REST APIs  
+- **Data:** Pandas  
+- **Database:** SQLite  
+- **Security:** Log analysis, threat detection, CTFs, TryHackMe  
+- **Tools:** Git, GitHub
 
 ---
 
