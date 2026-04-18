@@ -3,6 +3,8 @@
 🎓 IT Student focused on Cybersecurity and Software Development  
 🔐 Interested in both Offensive and Defensive Security  
 💻 Building practical projects involving log analysis, threat detection, and monitoring 
+
+
 ---
 
 <p align="left">
